@@ -2,3 +2,6 @@
 .Trash
 icloud*
 *.icloud
+__pycache__/
+*.pyc
+.venv/
